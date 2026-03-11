@@ -1,11 +1,15 @@
-# Homebrew Tap for Pine
+# Homebrew Tap
+
+Homebrew tap for [batonogov](https://github.com/batonogov) projects.
+
+## Casks
+
+### Pine
 
 [Pine](https://github.com/batonogov/pine) — minimal native macOS code editor built with SwiftUI.
 
-## Installation
-
 ```bash
-brew tap batonogov/pine-editor
+brew tap batonogov/tap
 brew install --cask pine-editor
 ```
 
