@@ -6,7 +6,7 @@ Homebrew tap for [batonogov](https://github.com/batonogov) projects.
 
 ### Pine
 
-[Pine](https://github.com/batonogov/pine) — minimal native macOS code editor built with SwiftUI.
+[Pine](https://github.com/batonogov/pine) — A native Mac code editor.
 
 ```bash
 brew tap batonogov/tap
