@@ -2,7 +2,7 @@ cask "pine-editor" do
   version "1.3.0"
   sha256 "e14b895368ad58cdea0ccf7cfcbd045899286e71f83404e73cbe8501e6835437"
 
-  url "https://github.com/batonogov/pine/releases/download/v#{version}/Pine.dmg"
+  url "https://github.com/batonogov/pine/releases/download/v#{version}/Pine-#{version}.dmg"
   name "Pine"
   desc "A native Mac code editor"
   homepage "https://github.com/batonogov/pine"
