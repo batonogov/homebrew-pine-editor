@@ -1,6 +1,6 @@
 cask "pine-editor" do
-  version "1.10.0"
-  sha256 "4a7f9904b09699d3f9ce39b2250b6450248ae99f25650db4f325731909440345"
+  version "1.10.1"
+  sha256 "5c643a2ff531068fb23aad35550c1fd27b40ef2c7165c7617ceea2fe0bb20b3e"
 
   url "https://github.com/batonogov/pine/releases/download/v#{version}/Pine-#{version}.dmg"
   name "Pine"
